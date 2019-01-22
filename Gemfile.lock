@@ -1,29 +1,3 @@
-
-Skip to content
-
-    Pull requests
-    Issues
-    Marketplace
-    Explore
-
-    @alexandrafren
-
-0
-0
-
-    741
-
-AlliNeuman/basic-apis-lab-v-000 forked from learn-co-students/basic-apis-lab-v-000
-Code
-Pull requests 0
-Projects 0
-Insights
-basic-apis-lab-v-000/Gemfile.lock
-0db7b3c on Jun 12, 2018
-@AlliNeuman AlliNeuman Done.
-@scottcreynolds
-@AlliNeuman
-204 lines (200 sloc) 4.89 KB
 GEM
   remote: https://rubygems.org/
   specs:
@@ -226,20 +200,4 @@ DEPENDENCIES
   webmock
 
 BUNDLED WITH
-   1.16.1
-
-    © 2019 GitHub, Inc.
-    Terms
-    Privacy
-    Security
-    Status
-    Help
-
-    Contact GitHub
-    Pricing
-    API
-    Training
-    Blog
-    About
-
-Press h to open a hovercard with more details.
+   1.17.3
