@@ -11,7 +11,7 @@
       <% @repos.each do |r| %>
         <li>
           <%= r['name']%>
-          <%= r['owner']['url']%>
+          <%= link_to(r['owner']['url'])%>
           <%= r['description']%>
         </li>
       <% end %>
